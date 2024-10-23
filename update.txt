@@ -1,0 +1,11 @@
+Alert changes done 
+course urls changed and updated
+Header Course Url updated
+lowercase url updates
+Meta tag updated along with a script tag
+meta tag and minor fixes fixed
+images upddated till d
+markdown blog implementation and course banner updation
+blog updation
+links and banner updated
+blog link fix testing
